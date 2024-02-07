@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(image/Homepage.png);
+    background-position: center;
+    background-size: cover no-repeat;
+}
+form{
+    padding: 20px;
+    margin-left: 30px;
+}
+.input1{
+    padding: 8px;
+    border-radius: 5px;
+    width: 345px;
+    height: 48px;
+    top: 69px;
+    left: 1px;
+    border: 1px;
+}
+.go{
+    position: relative;
+    right: 40px;
+    top: 8px;
+}
+.my-button{
+border-radius: 8px;
+background-color: green;
+border-right: 10px;
+width: 345px;
+height: 48px;
+top: 524px;
+left: 1px;
+}
+.my-button2{
+    width: 345px;
+    height: 48px;
+    top: 596px;
+    left: 1px;
+    border-radius: 10px;
+}
+.active{
+    text-decoration: none;
+    color: green;
+}
